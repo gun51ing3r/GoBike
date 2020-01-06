@@ -1,1 +1,0 @@
-Este projeto é referente ao GoBike.
